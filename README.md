@@ -1,7 +1,7 @@
 # ZerOX-Privacy-Policy
 Privacy Policy for ZerOX
-ZerOX Privacy Policy
-Effective Date: July 1, 2025
+# ZerOX Privacy Policy
+# Effective Date: July 1, 2025
 
 This Privacy Policy applies to the ZerOX app (hereby referred to as the "Application") for mobile devices, developed by MagniGenius Studio (hereby referred to as the "Service Provider") and provided as a Free service. This service is intended for use "AS IS".
 
